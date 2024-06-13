@@ -37,7 +37,7 @@ Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimen
 
 ###
 
-<div align="center">
+<div>
   <a href="mailto:ander_son12@hotmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="height: 32px; width: 88px; margin-right: 20px; vertical-align: middle;">
   </a>

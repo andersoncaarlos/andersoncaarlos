@@ -2,7 +2,7 @@
 
 ## Seja bem vindo ao meu GitHub.
 
-<div align="center">Sobre Mim: </div>
+<h2 align="center">Sobre Mim: </h2>
 
 Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de Sistemas e formado pelo BootCamp da Generation Brasil no curso de Desenvolvedor Full Stack Java e React.
 

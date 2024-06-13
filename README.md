@@ -2,12 +2,12 @@
 
 ## Seja bem vindo ao meu GitHub.
 
-## Sobre mim
+<div align="center">Sobre Mim: </div>
 
 Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de Sistemas e formado pelo BootCamp da Generation Brasil no curso de Desenvolvedor Full Stack Java e React.
 
 
-<h2 align="center"> Ferramentas que possuo conhecimento: </h2>
+<h2 align="center"> Ferramentas: </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="30" width="42" alt="spring logo"  />

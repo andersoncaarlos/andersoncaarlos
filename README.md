@@ -7,7 +7,7 @@
 Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de Sistemas e formado pelo BootCamp da Generation Brasil no curso de Desenvolvedor Full Stack Java e React.
 
 
-<h2> Ferramentas: </h2>
+<h2> Linguagens e Ferramentas: </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="30" width="42" alt="spring logo"  />
@@ -38,12 +38,13 @@ Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimen
 ###
 
 <div align="center">
-  <a href="mailto:ander_son12@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="height: 32px; width: 88px; margin-right: 20px;">
+  <a href="mailto:ander_son12@hotmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="height: 32px; width: 88px; margin-right: 20px; vertical-align: middle;">
   </a>
-  <a href="https://www.linkedin.com/in/andersoncarlosdemoraisilva" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 32px; width: 100px; margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/andersoncarlosdemoraisilva" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 32px; width: 100px; vertical-align: middle;">
   </a>
 </div>
+
 
 ###

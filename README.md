@@ -26,10 +26,10 @@ Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimen
 <br>
 <div align="center">
 <a href="https://github.com/andersoncaarlos/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersoncaarlos&rank_icon=github&card_width=320&&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersoncaarlos&rank_icon=github&card_width=320&&theme=highcontrast" />
 </a>
 <a href="https://github.com/andersoncaarlos/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncaarlos&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncaarlos&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
 </div>
 

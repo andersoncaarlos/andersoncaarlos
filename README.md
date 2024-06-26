@@ -1,5 +1,3 @@
-## Oi, eu sou Anderson 👋
-
 ## Seja bem vindo ao meu GitHub.
 
 <h2>Sobre Mim: </h2>

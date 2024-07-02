@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu GitHub.
 
-<h2>Sobre Mim</h2>
+<h2>Sobre mim</h2>
 
 Sou um Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de Sistemas e formado pelo BootCamp da Generation Brasil no curso de Desenvolvedor Full Stack Java e React.
 
